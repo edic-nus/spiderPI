@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<robot name="my_robot">
+
+<!-- Full course here with TF, URDF, Xacro, Gazebo, and more: https://rbcknd.com/ros2-tf-urdf-gazebo -->
+
+    <material name="green">
+        <color rgba="0 0.6 0 1" />
+    </material>
+    
+    <link name="base_footprint"/>
+
+    <link name="base_link">
+        <visual>
+            <geometry>
+                <box size="0.3 0.3 0.2" />
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+            <material name="green" />
+        </visual>
+    </link>
+    
+    <joint name="base_joint" type="fixed">
+        <parent link="base_footprint"/>
+        <child link="base_link"/>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+    </joint>
+
+</robot>
