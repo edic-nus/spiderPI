@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        'rteleop = rpc_commands.rteleop:main'
+        'rteleop = rpc_commands.rteleop:main',
+        'navigation_demo = rpc_commands.navigation_demo:main',
         ],
     },
 )

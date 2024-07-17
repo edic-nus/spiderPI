@@ -15,6 +15,7 @@ rpc_commands/movebackward.py
 rpc_commands/moveforward.py
 rpc_commands/moveleft.py
 rpc_commands/moveright.py
+rpc_commands/navigation_demo.py
 rpc_commands/posturedetect.py
 rpc_commands/quadrupledmovebackward.py
 rpc_commands/quadrupledmoveforward.py

@@ -1,0 +1,51 @@
+[0.549s] Invoking command in '/home/wshengggg/spiderPI/SpiderTeleop/src/rpc_commands': PYTHONPATH=/home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rpc_commands build --build-base /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build install --record /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/install.log --single-version-externally-managed install_data
+[0.690s] running egg_info
+[0.697s] writing ../../build/rpc_commands/rpc_commands.egg-info/PKG-INFO
+[0.697s] writing dependency_links to ../../build/rpc_commands/rpc_commands.egg-info/dependency_links.txt
+[0.697s] writing entry points to ../../build/rpc_commands/rpc_commands.egg-info/entry_points.txt
+[0.697s] writing requirements to ../../build/rpc_commands/rpc_commands.egg-info/requires.txt
+[0.697s] writing top-level names to ../../build/rpc_commands/rpc_commands.egg-info/top_level.txt
+[0.713s] reading manifest file '../../build/rpc_commands/rpc_commands.egg-info/SOURCES.txt'
+[0.713s] adding license file 'LICENSE'
+[0.714s] writing manifest file '../../build/rpc_commands/rpc_commands.egg-info/SOURCES.txt'
+[0.714s] running build
+[0.714s] running build_py
+[0.714s] copying rpc_commands/quadrupledrotateclockwise.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.714s] copying rpc_commands/moveleft.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/stop.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/moveforward.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/quadrupledstand.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/quadrupledmoveleft.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/transport.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/standhigh.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/__init__.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/standlow.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/rotateanticlockwise.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/navigation_demo.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/standsuperhigh.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/quadrupledmovebackward.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/movebackward.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/moveright.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/rteleop.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.715s] copying rpc_commands/standmiddle.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.716s] copying rpc_commands/quadrupledrotateanticlockwise.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.716s] copying rpc_commands/rotateclockwise.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.716s] copying rpc_commands/quadrupledmoveright.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.716s] copying rpc_commands/posturedetect.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.716s] copying rpc_commands/quadrupledmoveforward.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.716s] copying rpc_commands/stopactionngroup.py -> /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands
+[0.716s] running install
+[0.720s] running install_lib
+[0.729s] copying /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build/lib/rpc_commands/navigation_demo.py -> /home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+[0.730s] byte-compiling /home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/navigation_demo.py to navigation_demo.cpython-310.pyc
+[0.730s] running install_data
+[0.730s] copying resource/rpc_commands -> /home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/share/ament_index/resource_index/packages
+[0.730s] copying package.xml -> /home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/share/rpc_commands
+[0.730s] running install_egg_info
+[0.738s] removing '/home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/python3.10/site-packages/rpc_commands-0.0.0-py3.10.egg-info' (and everything under it)
+[0.739s] Copying ../../build/rpc_commands/rpc_commands.egg-info to /home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/python3.10/site-packages/rpc_commands-0.0.0-py3.10.egg-info
+[0.739s] running install_scripts
+[0.813s] Installing navigation_demo script to /home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/rpc_commands
+[0.813s] Installing rteleop script to /home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/rpc_commands
+[0.814s] writing list of installed files to '/home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/install.log'
+[0.833s] Invoked command in '/home/wshengggg/spiderPI/SpiderTeleop/src/rpc_commands' returned '0': PYTHONPATH=/home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wshengggg/spiderPI/SpiderTeleop/install/rpc_commands/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rpc_commands build --build-base /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/build install --record /home/wshengggg/spiderPI/SpiderTeleop/build/rpc_commands/install.log --single-version-externally-managed install_data
