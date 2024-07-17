@@ -1,0 +1,92 @@
+For move function parameters:
+Example:
+"params":[4, 0, 0, 200, 0],
+    #<mode>, <movement_direction>, <rotation>, <speed>, <times> 
+
+Mode: 2 = hexapod mode
+      4 = quadrupled mode
+
+Movement_direction: 0 = front
+                    90 = left
+                    180 = right
+                    270 = back
+
+Rotation: <0 = anticlockwise (value = how much the servo rotate each time)
+           0 = move forward
+          >0 = clockwise     (value = how much the servo rotate each time)
+
+Speed: ranges from 50 to 250
+
+Times: number of times the commands execute
+       start from 2 ^
+
+RPC id:
+1 = rotateanticlockwise
+2 = stop
+3 = stopactiongroup
+4 = transportPC id:
+1 = rotateanticlockwise
+2 = stop
+3 = stopactiongroup
+4 = transport
+5 = moveforward
+6 = runaction
+7 = posturedetect
+8 = moveleft
+9 = moveright
+10 = standlow
+11 = movebackward
+12 = rotate_clockwise
+13 = standmiddle
+14 = standhigh
+15 = standsuperhigh
+16 = quadrupledstand
+17 = quadrupledrotateclockwise
+18 = quadrupledrotateanticlockwise
+19 = quadrupledmoveleft
+20 = quadrupledmoveright
+21 = quadrupledmoveforward
+22 = quadrupledmovebackward
+5 = moveforward
+6 = runaction
+7 = posturedetect
+8 = moveleft
+9 = moveright
+10 = standlow
+11 = movebackward
+12 = rotate_clockwise
+13 = standmiddle
+14 = standhigh
+15 = standsuperhigh
+16 = quadrupledstand
+17 = quadrupledrotateclockwise
+18 = quadrupledrotateanticlockwise
+19 = quadrupledmoveleft
+20 = quadrupledmoveright
+21 = quadrupledmoveforward
+22 = quadrupledmovebackward
+
+# Define the mapping of keys to commands
+key_command_map = {
+    'w': 'moveforward.py',
+    'a': 'moveleft.py',
+    's': 'movebackward.py',
+    'd': 'moveright.py',
+    'q': 'rotateanticlockwise.py',
+    'e': 'rotateclockwise.py',
+    '1': 'standlow.py',
+    '2': 'standmiddle.py',
+    '3': 'standhigh.py',
+    '4': 'standsuperhigh.py',
+    '5': 'quadrupledstand.py',
+    '6': 'transport.py',
+    '7': 'posturedetect.py',
+    '8': 'runaction.py',
+    '9': 'stop.py',
+    'i': 'quadrupledmoveforward.py',
+    'j': 'quadrupledmoveleft.py',
+    'l': 'quadrupledmoveright.py',
+    'k': 'quadrupledmovebackward.py' ,
+    'u': 'quadrupledrotateanticlockwise.py',
+    'o': 'quadrupledrotateclockwise.py',
+    }

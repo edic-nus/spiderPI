@@ -1,0 +1,45 @@
+running egg_info
+writing ../../build/rpc_commands/rpc_commands.egg-info/PKG-INFO
+writing dependency_links to ../../build/rpc_commands/rpc_commands.egg-info/dependency_links.txt
+writing entry points to ../../build/rpc_commands/rpc_commands.egg-info/entry_points.txt
+writing requirements to ../../build/rpc_commands/rpc_commands.egg-info/requires.txt
+writing top-level names to ../../build/rpc_commands/rpc_commands.egg-info/top_level.txt
+reading manifest file '../../build/rpc_commands/rpc_commands.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/rpc_commands/rpc_commands.egg-info/SOURCES.txt'
+running build
+running build_py
+copying rpc_commands/quadrupledrotateclockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/moveleft.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/stop.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/moveforward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledstand.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmoveleft.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/transport.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standhigh.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/__init__.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standlow.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/rotateanticlockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standsuperhigh.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmovebackward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/movebackward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/moveright.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/rteleop.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standmiddle.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledrotateanticlockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/rotateclockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmoveright.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/posturedetect.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmoveforward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/stopactionngroup.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+running install
+running install_lib
+running install_data
+copying resource/rpc_commands -> /home/wshengggg/HWSpider/install/rpc_commands/share/ament_index/resource_index/packages
+copying package.xml -> /home/wshengggg/HWSpider/install/rpc_commands/share/rpc_commands
+running install_egg_info
+removing '/home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/rpc_commands/rpc_commands.egg-info to /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands-0.0.0-py3.10.egg-info
+running install_scripts
+Installing rteleop script to /home/wshengggg/HWSpider/install/rpc_commands/lib/rpc_commands
+writing list of installed files to '/home/wshengggg/HWSpider/build/rpc_commands/install.log'

@@ -1,0 +1,97 @@
+running egg_info
+creating ../../build/rpc_commands/rpc_commands.egg-info
+writing ../../build/rpc_commands/rpc_commands.egg-info/PKG-INFO
+writing dependency_links to ../../build/rpc_commands/rpc_commands.egg-info/dependency_links.txt
+writing requirements to ../../build/rpc_commands/rpc_commands.egg-info/requires.txt
+writing top-level names to ../../build/rpc_commands/rpc_commands.egg-info/top_level.txt
+writing manifest file '../../build/rpc_commands/rpc_commands.egg-info/SOURCES.txt'
+reading manifest file '../../build/rpc_commands/rpc_commands.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/rpc_commands/rpc_commands.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/wshengggg/HWSpider/build/rpc_commands/build
+creating /home/wshengggg/HWSpider/build/rpc_commands/build/lib
+creating /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledrotateclockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/moveleft.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/stop.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/moveforward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledstand.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmoveleft.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/transport.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standhigh.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/__init__.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standlow.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/rotateanticlockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standsuperhigh.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmovebackward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/movebackward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/moveright.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/rteleop.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/standmiddle.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledrotateanticlockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/rotateclockwise.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmoveright.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/posturedetect.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/quadrupledmoveforward.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+copying rpc_commands/stopactionngroup.py -> /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands
+running install
+running install_lib
+creating /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/quadrupledrotateclockwise.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/moveleft.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/stop.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/moveforward.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/quadrupledstand.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/quadrupledmoveleft.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/transport.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/standhigh.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/__init__.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/standlow.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/rotateanticlockwise.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/standsuperhigh.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/quadrupledmovebackward.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/movebackward.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/moveright.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/rteleop.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/standmiddle.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/quadrupledrotateanticlockwise.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/rotateclockwise.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/quadrupledmoveright.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/posturedetect.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/quadrupledmoveforward.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+copying /home/wshengggg/HWSpider/build/rpc_commands/build/lib/rpc_commands/stopactionngroup.py -> /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/quadrupledrotateclockwise.py to quadrupledrotateclockwise.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/moveleft.py to moveleft.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/stop.py to stop.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/moveforward.py to moveforward.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/quadrupledstand.py to quadrupledstand.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/quadrupledmoveleft.py to quadrupledmoveleft.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/transport.py to transport.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/standhigh.py to standhigh.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/standlow.py to standlow.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/rotateanticlockwise.py to rotateanticlockwise.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/standsuperhigh.py to standsuperhigh.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/quadrupledmovebackward.py to quadrupledmovebackward.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/movebackward.py to movebackward.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/moveright.py to moveright.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/rteleop.py to rteleop.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/standmiddle.py to standmiddle.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/quadrupledrotateanticlockwise.py to quadrupledrotateanticlockwise.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/rotateclockwise.py to rotateclockwise.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/quadrupledmoveright.py to quadrupledmoveright.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/posturedetect.py to posturedetect.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/quadrupledmoveforward.py to quadrupledmoveforward.cpython-310.pyc
+byte-compiling /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands/stopactionngroup.py to stopactionngroup.cpython-310.pyc
+running install_data
+creating /home/wshengggg/HWSpider/install/rpc_commands/share/ament_index
+creating /home/wshengggg/HWSpider/install/rpc_commands/share/ament_index/resource_index
+creating /home/wshengggg/HWSpider/install/rpc_commands/share/ament_index/resource_index/packages
+copying resource/rpc_commands -> /home/wshengggg/HWSpider/install/rpc_commands/share/ament_index/resource_index/packages
+copying package.xml -> /home/wshengggg/HWSpider/install/rpc_commands/share/rpc_commands
+running install_egg_info
+Copying ../../build/rpc_commands/rpc_commands.egg-info to /home/wshengggg/HWSpider/install/rpc_commands/lib/python3.10/site-packages/rpc_commands-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/wshengggg/HWSpider/build/rpc_commands/install.log'

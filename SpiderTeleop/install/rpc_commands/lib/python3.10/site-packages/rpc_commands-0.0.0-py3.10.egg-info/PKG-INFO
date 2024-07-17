@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: rpc_commands
+Version: 0.0.0
+Summary: This is a ROS package for controlling HiWonder SpiderPi with JSON-RPC commands
+Maintainer: wshengggg
+Maintainer-email: wsjasonteh2003@gmail.com
+License: Apache-2.0
+License-File: LICENSE
+Requires-Dist: setuptools

@@ -1,0 +1,1 @@
+This folder contains all the basic motions of the HiWonder Hexapod Robot. The parameters for the functions are editable. Refer to Motion Notes for more details. 
